@@ -2,5 +2,5 @@
 
 - Dr. Doom
 - Red Skull
-- Lex Luthor
-- Joker
+
+- Capitan America
